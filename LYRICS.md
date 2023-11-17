@@ -58,6 +58,7 @@ J'avais pas l'impression d'être plus coté qu'une caisse à l'argus\
 Donc j'ai dû renoncer, trouver mes propres complices\
 Mes partenaires de glisse, désolé si je m'immisce</span>\
 
+<span style="color: orange">\
 Kool Shen\
 Que voulais-tu que ton fils apprenne dans la rue?\
 Quelles vertus croyais-tu qu'on y enseigne?\
@@ -75,7 +76,7 @@ Sache qu'ici-bas, plus qu'ailleurs, la survie est un combat\
 D'esquives, des "shta-pow!" de putains de stonba\
 Laisse pas traîner ton fils\
 Si tu veux pas qu'il glisse\
-Qu'il te ramène du vice\
+Qu'il te ramène du vice</span>\
 
 
 Chœur\
@@ -95,3 +96,5 @@ Si tu veux pas qu'il glisse\
 Source : LyricFind\
 Songwriters: Bruno Lopes / Didier Morville / Fabrice Guion-Firmin\
 Laisse pas traîner ton fils lyrics © Sony/ATV Music Publishing LLC
+
+'''
