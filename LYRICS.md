@@ -1,4 +1,4 @@
-'''html
+'''html'''
 <span style="color: blue;">\
 Laisse pas traîner ton fils\
 NTM</span>\
@@ -97,4 +97,4 @@ Source : LyricFind\
 Songwriters: Bruno Lopes / Didier Morville / Fabrice Guion-Firmin\
 Laisse pas traîner ton fils lyrics © Sony/ATV Music Publishing LLC
 </span>\
-'''/html
+'''/html'''
