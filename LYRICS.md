@@ -1,6 +1,6 @@
 Laisse pas traîner ton fils \
 NTM\
-																Kool Shen\
+                                                            Kool Shen\
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal\ 
 Pour celui qui traîne, comme pour celui qui file\
 Tout droit, de tout façon y a plus de boulot\
@@ -20,5 +20,5 @@ Surtout jamais prendre de congé\
 C'est ça que tu veux pour ton fils?\
 C'est comme ça que tu veux qu'il grandisse?\
 J'ai pas de conseil à donner, mais si tu veux pas qu'il glisse\
-Regarde-le, quand il parle, écoute-le!
-Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux\
+Regarde-le, quand il parle, écoute-le!\
+Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux
