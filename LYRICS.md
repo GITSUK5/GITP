@@ -1,8 +1,8 @@
-<span style="color: blue;">
+<span style="color: blue;">\
 Laisse pas traîner ton fils\
 NTM\ 
-</span>
-<span style="color: orange;">
+</span>\
+<span style="color: orange;">\
 															Kool Shen\
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal\
 Pour celui qui traîne, comme pour celui qui file\
