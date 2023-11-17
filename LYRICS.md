@@ -1,10 +1,10 @@
-'''html'''
+'''html
 <span style="color: blue;">\
 Laisse pas traîner ton fils\
-NTM</span>\
+NTM</span>
 
 <span style="color: orange;">\
-															Kool Shen\
+Kool Shen\
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal\
 Pour celui qui traîne, comme pour celui qui file\
 Tout droit, de tout façon y a plus de boulot\
@@ -33,7 +33,7 @@ Laisse pas traîner ton fils\
 Si tu ne veux pas qu'il glisse\
 Qu'il te ramène du vice\
 Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse.</span>\
+Si tu veux pas qu'il glisse.</span>
 
 <span style="color: vert;">\
 Joey Starr\
@@ -56,7 +56,7 @@ Croyant la jouer fine, il ne voulait pas, ne cherchait même pas\
 Chaque jour un peu plus\
 J'avais pas l'impression d'être plus coté qu'une caisse à l'argus\
 Donc j'ai dû renoncer, trouver mes propres complices\
-Mes partenaires de glisse, désolé si je m'immisce</span>\
+Mes partenaires de glisse, désolé si je m'immisce</span>
 
 <span style="color: orange">\
 Kool Shen\
@@ -76,7 +76,7 @@ Sache qu'ici-bas, plus qu'ailleurs, la survie est un combat\
 D'esquives, des "shta-pow!" de putains de stonba\
 Laisse pas traîner ton fils\
 Si tu veux pas qu'il glisse\
-Qu'il te ramène du vice</span>\
+Qu'il te ramène du vice</span>
 
 <span style="color: bleu;">\
 Chœur\
@@ -96,5 +96,5 @@ Si tu veux pas qu'il glisse\
 Source : LyricFind\
 Songwriters: Bruno Lopes / Didier Morville / Fabrice Guion-Firmin\
 Laisse pas traîner ton fils lyrics © Sony/ATV Music Publishing LLC
-</span>\
-'''/html'''
+</span>
+'''/html
