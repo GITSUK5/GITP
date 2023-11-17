@@ -91,7 +91,7 @@ Laisse pas traîner ton fils\
 Si tu ne veux pas qu'il glisse\
 Qu'il te ramène du vice\
 Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse\
+Si tu veux pas qu'il glisse
 
 Source : LyricFind\
 Songwriters: Bruno Lopes / Didier Morville / Fabrice Guion-Firmin\
