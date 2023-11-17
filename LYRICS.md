@@ -78,7 +78,7 @@ Laisse pas traîner ton fils\
 Si tu veux pas qu'il glisse\
 Qu'il te ramène du vice</span>\
 
-
+<span style="color: bleu;">\
 Chœur\
 Non laisse pas traîner ton fils\
 Laisse pas traîner ton fils\
@@ -96,5 +96,5 @@ Si tu veux pas qu'il glisse\
 Source : LyricFind\
 Songwriters: Bruno Lopes / Didier Morville / Fabrice Guion-Firmin\
 Laisse pas traîner ton fils lyrics © Sony/ATV Music Publishing LLC
-
-'''
+</span>\
+'''/html
