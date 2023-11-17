@@ -24,7 +24,7 @@ Regarde-le, quand il parle, écoute-le!
 Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux\
 
 
-                                                                Chœur\
+Chœur\
 Laisse pas traîner ton fils\
 Si tu ne veux pas qu'il glisse\
 Qu'il te ramène du vice\
@@ -32,7 +32,7 @@ Laisse pas traîner ton fils\
 Si tu veux pas qu'il glisse.\
 
 
-                                                                Joey Starr\
+Joey Starr\
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!"\
 C'est avec ces formules, trop saoulées, enfin faut croire\
 Que mon père a contribué à me lier avec la rue\
@@ -72,3 +72,22 @@ D'esquives, des "shta-pow!" de putains de stonba\
 Laisse pas traîner ton fils\
 Si tu veux pas qu'il glisse\
 Qu'il te ramène du vice\
+
+
+Chœur\
+Non laisse pas traîner ton fils\
+Laisse pas traîner ton fils\
+Si tu ne veux pas qu'il glisse\
+Qu'il te ramène du vice\
+Laisse pas traîner ton fils\
+Si tu veux pas qu'il glisse\
+
+Laisse pas traîner ton fils\
+Si tu ne veux pas qu'il glisse\
+Qu'il te ramène du vice\
+Laisse pas traîner ton fils\
+Si tu veux pas qu'il glisse\
+
+Source : LyricFind\
+Songwriters: Bruno Lopes / Didier Morville / Fabrice Guion-Firmin\
+Laisse pas traîner ton fils lyrics © Sony/ATV Music Publishing LLC
